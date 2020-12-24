@@ -1,9 +1,13 @@
 # Etsy Reviews Clone - Hack Reactor FEC Project
 
-> This is my attempt at recreating the a full-stack reviews component from the Etsy website.
+> This is my attempt at recreating a full-stack reviews component from the Etsy website.
 > The page was created with React for the front-end and served from an ExpressJS back-end, where it's pulling faker generated reviews
 > from a MongoDB database in a Docker container and pictures hosted in a S3 bucket.
 > It was combined with a teammate's gallery component through the use of a proxy server to recreate the entire product page.
+
+> It was a great learning opportunity for me as I was my first chance to get hands on with using React Hooks over Class components,
+> using Faker to generate data, integrating CircleCI into my GitHub workflow to ensure that any code I was pushed up was not faulty, and
+> learning to quickly package and deploy the app to AWS with Docker.
 
 ## Related Projects
 
